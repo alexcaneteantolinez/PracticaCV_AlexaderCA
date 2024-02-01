@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_AlexaderCA
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_AlexaderCA
 {
     internal class Program
     {
@@ -13,8 +15,7 @@
             //PROCESS
 
             //SALIDA
-
-            //Estructura de Programa de
+            Console.WriteLine("Mi nombre es: AlexanderCA");
         }
     }
 }
