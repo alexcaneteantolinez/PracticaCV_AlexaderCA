@@ -8,14 +8,16 @@ namespace PracticaCV_AlexaderCA
 {
     internal class AlexanderCA
     {
-        //CONSTANTES
+        //CONTANTES
 
-        //VARIABLES
+        //MIEMBROS PRIVADOS
 
-        //ENTRADA
+        //CONSTRUCTORES
 
-        //PROCESOS
+        //PROPIEDADES
 
-        //SALIDA
+        //METODOS PRIVADOS
+
+        //METODOS PUBLICOS
     }
 }
