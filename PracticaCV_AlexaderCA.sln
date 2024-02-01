@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaCV_AlexaderCA", "PracticaCV_AlexaderCA\PracticaCV_AlexaderCA.csproj", "{A9B98113-0265-49F8-9A28-6F2D5801065C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B98113-0265-49F8-9A28-6F2D5801065C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B98113-0265-49F8-9A28-6F2D5801065C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B98113-0265-49F8-9A28-6F2D5801065C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B98113-0265-49F8-9A28-6F2D5801065C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3246F434-8283-4AC6-9A5E-8794FF15B46F}
+	EndGlobalSection
+EndGlobal
